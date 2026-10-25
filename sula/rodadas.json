@@ -1,0 +1,598 @@
+{
+  "competicao": "Copa Sul-Americana (formato suíço)",
+  "seed": 2027,
+  "rodadas": [
+    [
+      {
+        "mandante": "Grêmio",
+        "visitante": "Pumas"
+      },
+      {
+        "mandante": "Botafogo",
+        "visitante": "Huracán"
+      },
+      {
+        "mandante": "Racing",
+        "visitante": "Universidad Chile"
+      },
+      {
+        "mandante": "San Lorenzo",
+        "visitante": "Deportivo Táchira"
+      },
+      {
+        "mandante": "Olímpia",
+        "visitante": "Chivas"
+      },
+      {
+        "mandante": "Vasco",
+        "visitante": "Tigres"
+      },
+      {
+        "mandante": "Barcelona",
+        "visitante": "Atlético Mineiro"
+      },
+      {
+        "mandante": "The Strongest",
+        "visitante": "Guaraní"
+      },
+      {
+        "mandante": "Cusco",
+        "visitante": "Atlético Nacional"
+      },
+      {
+        "mandante": "Carabobo",
+        "visitante": "Montevideo City Torque"
+      },
+      {
+        "mandante": "Blooming",
+        "visitante": "Colo Colo"
+      },
+      {
+        "mandante": "Liverpool",
+        "visitante": "Monterrey"
+      },
+      {
+        "mandante": "Universidad Católica (EQU)",
+        "visitante": "Los Angeles FC"
+      },
+      {
+        "mandante": "Olímpia (HON)",
+        "visitante": "Saprissa"
+      },
+      {
+        "mandante": "Comunicaciones (GUA)",
+        "visitante": "River Plate"
+      },
+      {
+        "mandante": "Alianza (SLV)",
+        "visitante": "LA Galaxy"
+      },
+      {
+        "mandante": "Philadelphia Union",
+        "visitante": "Alianza Lima"
+      },
+      {
+        "mandante": "Columbus Crew",
+        "visitante": "Junior"
+      }
+    ],
+    [
+      {
+        "mandante": "Atlético Mineiro",
+        "visitante": "Olímpia"
+      },
+      {
+        "mandante": "River Plate",
+        "visitante": "Botafogo"
+      },
+      {
+        "mandante": "San Lorenzo",
+        "visitante": "Los Angeles FC"
+      },
+      {
+        "mandante": "Atlético Nacional",
+        "visitante": "Universidad Católica (EQU)"
+      },
+      {
+        "mandante": "Colo Colo",
+        "visitante": "Cusco"
+      },
+      {
+        "mandante": "Huracán",
+        "visitante": "Junior"
+      },
+      {
+        "mandante": "Guaraní",
+        "visitante": "Barcelona"
+      },
+      {
+        "mandante": "Alianza Lima",
+        "visitante": "Olímpia (HON)"
+      },
+      {
+        "mandante": "Deportivo Táchira",
+        "visitante": "Blooming"
+      },
+      {
+        "mandante": "Monterrey",
+        "visitante": "Vasco"
+      },
+      {
+        "mandante": "Chivas",
+        "visitante": "LA Galaxy"
+      },
+      {
+        "mandante": "Montevideo City Torque",
+        "visitante": "Tigres"
+      },
+      {
+        "mandante": "Comunicaciones (GUA)",
+        "visitante": "Carabobo"
+      },
+      {
+        "mandante": "Alianza (SLV)",
+        "visitante": "Racing"
+      },
+      {
+        "mandante": "Saprissa",
+        "visitante": "The Strongest"
+      },
+      {
+        "mandante": "Philadelphia Union",
+        "visitante": "Liverpool"
+      },
+      {
+        "mandante": "Columbus Crew",
+        "visitante": "Grêmio"
+      },
+      {
+        "mandante": "Pumas",
+        "visitante": "Universidad Chile"
+      }
+    ],
+    [
+      {
+        "mandante": "Botafogo",
+        "visitante": "Columbus Crew"
+      },
+      {
+        "mandante": "Racing",
+        "visitante": "Colo Colo"
+      },
+      {
+        "mandante": "Atlético Nacional",
+        "visitante": "Barcelona"
+      },
+      {
+        "mandante": "Olímpia",
+        "visitante": "River Plate"
+      },
+      {
+        "mandante": "Vasco",
+        "visitante": "Universidad Chile"
+      },
+      {
+        "mandante": "Huracán",
+        "visitante": "Grêmio"
+      },
+      {
+        "mandante": "Junior",
+        "visitante": "Deportivo Táchira"
+      },
+      {
+        "mandante": "Monterrey",
+        "visitante": "San Lorenzo"
+      },
+      {
+        "mandante": "Montevideo City Torque",
+        "visitante": "Guaraní"
+      },
+      {
+        "mandante": "Cusco",
+        "visitante": "Pumas"
+      },
+      {
+        "mandante": "Carabobo",
+        "visitante": "The Strongest"
+      },
+      {
+        "mandante": "Blooming",
+        "visitante": "Alianza Lima"
+      },
+      {
+        "mandante": "Liverpool",
+        "visitante": "Comunicaciones (GUA)"
+      },
+      {
+        "mandante": "Universidad Católica (EQU)",
+        "visitante": "Atlético Mineiro"
+      },
+      {
+        "mandante": "Saprissa",
+        "visitante": "Chivas"
+      },
+      {
+        "mandante": "LA Galaxy",
+        "visitante": "Olímpia (HON)"
+      },
+      {
+        "mandante": "Los Angeles FC",
+        "visitante": "Tigres"
+      },
+      {
+        "mandante": "Philadelphia Union",
+        "visitante": "Alianza (SLV)"
+      }
+    ],
+    [
+      {
+        "mandante": "Grêmio",
+        "visitante": "Liverpool"
+      },
+      {
+        "mandante": "Botafogo",
+        "visitante": "Montevideo City Torque"
+      },
+      {
+        "mandante": "River Plate",
+        "visitante": "Philadelphia Union"
+      },
+      {
+        "mandante": "Racing",
+        "visitante": "Comunicaciones (GUA)"
+      },
+      {
+        "mandante": "Atlético Nacional",
+        "visitante": "Atlético Mineiro"
+      },
+      {
+        "mandante": "Colo Colo",
+        "visitante": "Saprissa"
+      },
+      {
+        "mandante": "Junior",
+        "visitante": "San Lorenzo"
+      },
+      {
+        "mandante": "Barcelona",
+        "visitante": "Pumas"
+      },
+      {
+        "mandante": "Universidad Chile",
+        "visitante": "Alianza Lima"
+      },
+      {
+        "mandante": "The Strongest",
+        "visitante": "Universidad Católica (EQU)"
+      },
+      {
+        "mandante": "Guaraní",
+        "visitante": "Columbus Crew"
+      },
+      {
+        "mandante": "Tigres",
+        "visitante": "Huracán"
+      },
+      {
+        "mandante": "Carabobo",
+        "visitante": "Olímpia"
+      },
+      {
+        "mandante": "Blooming",
+        "visitante": "Chivas"
+      },
+      {
+        "mandante": "Olímpia (HON)",
+        "visitante": "Cusco"
+      },
+      {
+        "mandante": "Alianza (SLV)",
+        "visitante": "Monterrey"
+      },
+      {
+        "mandante": "LA Galaxy",
+        "visitante": "Vasco"
+      },
+      {
+        "mandante": "Los Angeles FC",
+        "visitante": "Deportivo Táchira"
+      }
+    ],
+    [
+      {
+        "mandante": "River Plate",
+        "visitante": "Guaraní"
+      },
+      {
+        "mandante": "Colo Colo",
+        "visitante": "San Lorenzo"
+      },
+      {
+        "mandante": "Huracán",
+        "visitante": "LA Galaxy"
+      },
+      {
+        "mandante": "Junior",
+        "visitante": "Alianza (SLV)"
+      },
+      {
+        "mandante": "Universidad Chile",
+        "visitante": "Botafogo"
+      },
+      {
+        "mandante": "The Strongest",
+        "visitante": "Racing"
+      },
+      {
+        "mandante": "Alianza Lima",
+        "visitante": "Atlético Nacional"
+      },
+      {
+        "mandante": "Deportivo Táchira",
+        "visitante": "Vasco"
+      },
+      {
+        "mandante": "Monterrey",
+        "visitante": "Carabobo"
+      },
+      {
+        "mandante": "Tigres",
+        "visitante": "Universidad Católica (EQU)"
+      },
+      {
+        "mandante": "Chivas",
+        "visitante": "Liverpool"
+      },
+      {
+        "mandante": "Montevideo City Torque",
+        "visitante": "Grêmio"
+      },
+      {
+        "mandante": "Cusco",
+        "visitante": "Barcelona"
+      },
+      {
+        "mandante": "Olímpia (HON)",
+        "visitante": "Atlético Mineiro"
+      },
+      {
+        "mandante": "Comunicaciones (GUA)",
+        "visitante": "Columbus Crew"
+      },
+      {
+        "mandante": "Saprissa",
+        "visitante": "Los Angeles FC"
+      },
+      {
+        "mandante": "Philadelphia Union",
+        "visitante": "Olímpia"
+      },
+      {
+        "mandante": "Pumas",
+        "visitante": "Blooming"
+      }
+    ],
+    [
+      {
+        "mandante": "Atlético Mineiro",
+        "visitante": "Alianza Lima"
+      },
+      {
+        "mandante": "Grêmio",
+        "visitante": "The Strongest"
+      },
+      {
+        "mandante": "Botafogo",
+        "visitante": "Atlético Nacional"
+      },
+      {
+        "mandante": "Racing",
+        "visitante": "Carabobo"
+      },
+      {
+        "mandante": "San Lorenzo",
+        "visitante": "Tigres"
+      },
+      {
+        "mandante": "Olímpia",
+        "visitante": "Junior"
+      },
+      {
+        "mandante": "Vasco",
+        "visitante": "Philadelphia Union"
+      },
+      {
+        "mandante": "Barcelona",
+        "visitante": "Monterrey"
+      },
+      {
+        "mandante": "Guaraní",
+        "visitante": "Liverpool"
+      },
+      {
+        "mandante": "Deportivo Táchira",
+        "visitante": "Saprissa"
+      },
+      {
+        "mandante": "Chivas",
+        "visitante": "River Plate"
+      },
+      {
+        "mandante": "Montevideo City Torque",
+        "visitante": "Olímpia (HON)"
+      },
+      {
+        "mandante": "Cusco",
+        "visitante": "Blooming"
+      },
+      {
+        "mandante": "Universidad Católica (EQU)",
+        "visitante": "Universidad Chile"
+      },
+      {
+        "mandante": "Alianza (SLV)",
+        "visitante": "Huracán"
+      },
+      {
+        "mandante": "LA Galaxy",
+        "visitante": "Colo Colo"
+      },
+      {
+        "mandante": "Los Angeles FC",
+        "visitante": "Comunicaciones (GUA)"
+      },
+      {
+        "mandante": "Columbus Crew",
+        "visitante": "Pumas"
+      }
+    ],
+    [
+      {
+        "mandante": "Atlético Mineiro",
+        "visitante": "Monterrey"
+      },
+      {
+        "mandante": "Grêmio",
+        "visitante": "Racing"
+      },
+      {
+        "mandante": "River Plate",
+        "visitante": "Blooming"
+      },
+      {
+        "mandante": "Atlético Nacional",
+        "visitante": "LA Galaxy"
+      },
+      {
+        "mandante": "Colo Colo",
+        "visitante": "Vasco"
+      },
+      {
+        "mandante": "Olímpia",
+        "visitante": "Olímpia (HON)"
+      },
+      {
+        "mandante": "Barcelona",
+        "visitante": "The Strongest"
+      },
+      {
+        "mandante": "Universidad Chile",
+        "visitante": "Los Angeles FC"
+      },
+      {
+        "mandante": "Alianza Lima",
+        "visitante": "Huracán"
+      },
+      {
+        "mandante": "Tigres",
+        "visitante": "Alianza (SLV)"
+      },
+      {
+        "mandante": "Chivas",
+        "visitante": "Junior"
+      },
+      {
+        "mandante": "Carabobo",
+        "visitante": "Philadelphia Union"
+      },
+      {
+        "mandante": "Liverpool",
+        "visitante": "Deportivo Táchira"
+      },
+      {
+        "mandante": "Universidad Católica (EQU)",
+        "visitante": "Cusco"
+      },
+      {
+        "mandante": "Comunicaciones (GUA)",
+        "visitante": "Guaraní"
+      },
+      {
+        "mandante": "Saprissa",
+        "visitante": "San Lorenzo"
+      },
+      {
+        "mandante": "Columbus Crew",
+        "visitante": "Montevideo City Torque"
+      },
+      {
+        "mandante": "Pumas",
+        "visitante": "Botafogo"
+      }
+    ],
+    [
+      {
+        "mandante": "Atlético Mineiro",
+        "visitante": "Alianza (SLV)"
+      },
+      {
+        "mandante": "San Lorenzo",
+        "visitante": "Grêmio"
+      },
+      {
+        "mandante": "Vasco",
+        "visitante": "River Plate"
+      },
+      {
+        "mandante": "Huracán",
+        "visitante": "Cusco"
+      },
+      {
+        "mandante": "Junior",
+        "visitante": "Carabobo"
+      },
+      {
+        "mandante": "Universidad Chile",
+        "visitante": "Chivas"
+      },
+      {
+        "mandante": "The Strongest",
+        "visitante": "Comunicaciones (GUA)"
+      },
+      {
+        "mandante": "Guaraní",
+        "visitante": "Colo Colo"
+      },
+      {
+        "mandante": "Alianza Lima",
+        "visitante": "Montevideo City Torque"
+      },
+      {
+        "mandante": "Deportivo Táchira",
+        "visitante": "Olímpia"
+      },
+      {
+        "mandante": "Monterrey",
+        "visitante": "Saprissa"
+      },
+      {
+        "mandante": "Tigres",
+        "visitante": "Botafogo"
+      },
+      {
+        "mandante": "Blooming",
+        "visitante": "Columbus Crew"
+      },
+      {
+        "mandante": "Liverpool",
+        "visitante": "Racing"
+      },
+      {
+        "mandante": "Olímpia (HON)",
+        "visitante": "Barcelona"
+      },
+      {
+        "mandante": "LA Galaxy",
+        "visitante": "Universidad Católica (EQU)"
+      },
+      {
+        "mandante": "Los Angeles FC",
+        "visitante": "Atlético Nacional"
+      },
+      {
+        "mandante": "Pumas",
+        "visitante": "Philadelphia Union"
+      }
+    ]
+  ]
+}

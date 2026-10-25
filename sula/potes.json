@@ -1,9 +1,157 @@
 {
   "competicao": "Copa Sul-Americana (formato suíço)",
   "potes": {
-    "1": [],
-    "2": [],
-    "3": [],
-    "4": []
+    "1": [
+      {
+        "equipe": "Atlético Mineiro",
+        "pais": "BRA"
+      },
+      {
+        "equipe": "Grêmio",
+        "pais": "BRA"
+      },
+      {
+        "equipe": "Botafogo",
+        "pais": "BRA"
+      },
+      {
+        "equipe": "River Plate",
+        "pais": "ARG"
+      },
+      {
+        "equipe": "Racing",
+        "pais": "ARG"
+      },
+      {
+        "equipe": "San Lorenzo",
+        "pais": "ARG"
+      },
+      {
+        "equipe": "Atlético Nacional",
+        "pais": "COL"
+      },
+      {
+        "equipe": "Colo Colo",
+        "pais": "CHI"
+      },
+      {
+        "equipe": "Olímpia",
+        "pais": "PAR"
+      }
+    ],
+    "2": [
+      {
+        "equipe": "Vasco",
+        "pais": "BRA"
+      },
+      {
+        "equipe": "Huracán",
+        "pais": "ARG"
+      },
+      {
+        "equipe": "Junior",
+        "pais": "COL"
+      },
+      {
+        "equipe": "Barcelona",
+        "pais": "EQU"
+      },
+      {
+        "equipe": "Universidad Chile",
+        "pais": "CHI"
+      },
+      {
+        "equipe": "The Strongest",
+        "pais": "BOL"
+      },
+      {
+        "equipe": "Guaraní",
+        "pais": "PAR"
+      },
+      {
+        "equipe": "Alianza Lima",
+        "pais": "PER"
+      },
+      {
+        "equipe": "Deportivo Táchira",
+        "pais": "VEN"
+      }
+    ],
+    "3": [
+      {
+        "equipe": "Monterrey",
+        "pais": "MEX"
+      },
+      {
+        "equipe": "Tigres",
+        "pais": "MEX"
+      },
+      {
+        "equipe": "Chivas",
+        "pais": "MEX"
+      },
+      {
+        "equipe": "Montevideo City Torque",
+        "pais": "URU"
+      },
+      {
+        "equipe": "Cusco",
+        "pais": "PER"
+      },
+      {
+        "equipe": "Carabobo",
+        "pais": "VEN"
+      },
+      {
+        "equipe": "Blooming",
+        "pais": "BOL"
+      },
+      {
+        "equipe": "Liverpool",
+        "pais": "URU"
+      },
+      {
+        "equipe": "Universidad Católica (EQU)",
+        "pais": "EQU"
+      }
+    ],
+    "4": [
+      {
+        "equipe": "Olímpia (HON)",
+        "pais": "HON"
+      },
+      {
+        "equipe": "Comunicaciones (GUA)",
+        "pais": "GUA"
+      },
+      {
+        "equipe": "Alianza (SLV)",
+        "pais": "SLV"
+      },
+      {
+        "equipe": "Saprissa",
+        "pais": "CRC"
+      },
+      {
+        "equipe": "LA Galaxy",
+        "pais": "USA"
+      },
+      {
+        "equipe": "Los Angeles FC",
+        "pais": "USA"
+      },
+      {
+        "equipe": "Philadelphia Union",
+        "pais": "USA"
+      },
+      {
+        "equipe": "Columbus Crew",
+        "pais": "USA"
+      },
+      {
+        "equipe": "Pumas",
+        "pais": "MEX"
+      }
+    ]
   }
 }
