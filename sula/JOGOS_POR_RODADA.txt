@@ -1,0 +1,159 @@
+RODADA 1
+  Grêmio x Pumas
+  Botafogo x Huracán
+  Racing x Universidad Chile
+  San Lorenzo x Deportivo Táchira
+  Olímpia x Chivas
+  Vasco x Tigres
+  Barcelona x Atlético Mineiro
+  The Strongest x Guaraní
+  Cusco x Atlético Nacional
+  Carabobo x Montevideo City Torque
+  Blooming x Colo Colo
+  Liverpool x Monterrey
+  Universidad Católica (EQU) x Los Angeles FC
+  Olímpia (HON) x Saprissa
+  Comunicaciones (GUA) x River Plate
+  Alianza (SLV) x LA Galaxy
+  Philadelphia Union x Alianza Lima
+  Columbus Crew x Junior
+
+RODADA 2
+  Atlético Mineiro x Olímpia
+  River Plate x Botafogo
+  San Lorenzo x Los Angeles FC
+  Atlético Nacional x Universidad Católica (EQU)
+  Colo Colo x Cusco
+  Huracán x Junior
+  Guaraní x Barcelona
+  Alianza Lima x Olímpia (HON)
+  Deportivo Táchira x Blooming
+  Monterrey x Vasco
+  Chivas x LA Galaxy
+  Montevideo City Torque x Tigres
+  Comunicaciones (GUA) x Carabobo
+  Alianza (SLV) x Racing
+  Saprissa x The Strongest
+  Philadelphia Union x Liverpool
+  Columbus Crew x Grêmio
+  Pumas x Universidad Chile
+
+RODADA 3
+  Botafogo x Columbus Crew
+  Racing x Colo Colo
+  Atlético Nacional x Barcelona
+  Olímpia x River Plate
+  Vasco x Universidad Chile
+  Huracán x Grêmio
+  Junior x Deportivo Táchira
+  Monterrey x San Lorenzo
+  Montevideo City Torque x Guaraní
+  Cusco x Pumas
+  Carabobo x The Strongest
+  Blooming x Alianza Lima
+  Liverpool x Comunicaciones (GUA)
+  Universidad Católica (EQU) x Atlético Mineiro
+  Saprissa x Chivas
+  LA Galaxy x Olímpia (HON)
+  Los Angeles FC x Tigres
+  Philadelphia Union x Alianza (SLV)
+
+RODADA 4
+  Grêmio x Liverpool
+  Botafogo x Montevideo City Torque
+  River Plate x Philadelphia Union
+  Racing x Comunicaciones (GUA)
+  Atlético Nacional x Atlético Mineiro
+  Colo Colo x Saprissa
+  Junior x San Lorenzo
+  Barcelona x Pumas
+  Universidad Chile x Alianza Lima
+  The Strongest x Universidad Católica (EQU)
+  Guaraní x Columbus Crew
+  Tigres x Huracán
+  Carabobo x Olímpia
+  Blooming x Chivas
+  Olímpia (HON) x Cusco
+  Alianza (SLV) x Monterrey
+  LA Galaxy x Vasco
+  Los Angeles FC x Deportivo Táchira
+
+RODADA 5
+  River Plate x Guaraní
+  Colo Colo x San Lorenzo
+  Huracán x LA Galaxy
+  Junior x Alianza (SLV)
+  Universidad Chile x Botafogo
+  The Strongest x Racing
+  Alianza Lima x Atlético Nacional
+  Deportivo Táchira x Vasco
+  Monterrey x Carabobo
+  Tigres x Universidad Católica (EQU)
+  Chivas x Liverpool
+  Montevideo City Torque x Grêmio
+  Cusco x Barcelona
+  Olímpia (HON) x Atlético Mineiro
+  Comunicaciones (GUA) x Columbus Crew
+  Saprissa x Los Angeles FC
+  Philadelphia Union x Olímpia
+  Pumas x Blooming
+
+RODADA 6
+  Atlético Mineiro x Alianza Lima
+  Grêmio x The Strongest
+  Botafogo x Atlético Nacional
+  Racing x Carabobo
+  San Lorenzo x Tigres
+  Olímpia x Junior
+  Vasco x Philadelphia Union
+  Barcelona x Monterrey
+  Guaraní x Liverpool
+  Deportivo Táchira x Saprissa
+  Chivas x River Plate
+  Montevideo City Torque x Olímpia (HON)
+  Cusco x Blooming
+  Universidad Católica (EQU) x Universidad Chile
+  Alianza (SLV) x Huracán
+  LA Galaxy x Colo Colo
+  Los Angeles FC x Comunicaciones (GUA)
+  Columbus Crew x Pumas
+
+RODADA 7
+  Atlético Mineiro x Monterrey
+  Grêmio x Racing
+  River Plate x Blooming
+  Atlético Nacional x LA Galaxy
+  Colo Colo x Vasco
+  Olímpia x Olímpia (HON)
+  Barcelona x The Strongest
+  Universidad Chile x Los Angeles FC
+  Alianza Lima x Huracán
+  Tigres x Alianza (SLV)
+  Chivas x Junior
+  Carabobo x Philadelphia Union
+  Liverpool x Deportivo Táchira
+  Universidad Católica (EQU) x Cusco
+  Comunicaciones (GUA) x Guaraní
+  Saprissa x San Lorenzo
+  Columbus Crew x Montevideo City Torque
+  Pumas x Botafogo
+
+RODADA 8
+  Atlético Mineiro x Alianza (SLV)
+  San Lorenzo x Grêmio
+  Vasco x River Plate
+  Huracán x Cusco
+  Junior x Carabobo
+  Universidad Chile x Chivas
+  The Strongest x Comunicaciones (GUA)
+  Guaraní x Colo Colo
+  Alianza Lima x Montevideo City Torque
+  Deportivo Táchira x Olímpia
+  Monterrey x Saprissa
+  Tigres x Botafogo
+  Blooming x Columbus Crew
+  Liverpool x Racing
+  Olímpia (HON) x Barcelona
+  LA Galaxy x Universidad Católica (EQU)
+  Los Angeles FC x Atlético Nacional
+  Pumas x Philadelphia Union

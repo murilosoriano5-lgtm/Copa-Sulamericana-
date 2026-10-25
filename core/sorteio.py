@@ -202,6 +202,17 @@ def write_md(rounds, seed, path):
         f.write("\n".join(out) + "\n")
 
 
+def write_txt(rounds, path):
+    """Versão em texto simples: RODADA n + 'mandante x visitante'."""
+    out = []
+    for i, r in enumerate(rounds, 1):
+        out.append(f"RODADA {i}")
+        out += [f"  {h} x {a}" for h, a in r]
+        out.append("")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(out))
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         raise SystemExit("uso: python3 core/sorteio.py <pasta_da_competicao> [seed]")
@@ -214,4 +225,5 @@ if __name__ == "__main__":
                    "rodadas": [[{"mandante": h, "visitante": a} for h, a in r] for r in rounds]},
                   f, ensure_ascii=False, indent=2)
     write_md(rounds, seed, f"{pasta}/JOGOS_POR_RODADA.md")
+    write_txt(rounds, f"{pasta}/JOGOS_POR_RODADA.txt")
     print(f"OK - {nome}: sorteio válido. Maior sequência casa/fora:", max_streak(rounds))
