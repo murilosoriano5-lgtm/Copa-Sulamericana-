@@ -1,0 +1,28 @@
+{
+  "criterio": "Top 16 da liga; ida na casa do pior colocado; confrontos 1x16, 2x15, ... 8x9",
+  "fases": {
+    "Oitavas": [
+      {"lado": "A", "ida": ["The Strongest", 1, 2, "Monterrey"], "volta": ["Monterrey", 3, 1, "The Strongest"]},
+      {"lado": "A", "ida": ["Los Angeles FC", 0, 0, "River Plate"], "volta": ["River Plate", 1, 0, "Los Angeles FC"]},
+      {"lado": "A", "ida": ["Vasco", 1, 0, "Atlético Nacional"], "volta": ["Atlético Nacional", 1, 1, "Vasco"]},
+      {"lado": "A", "ida": ["Olímpia", 2, 1, "Chivas"], "volta": ["Chivas", 3, 0, "Olímpia"]},
+      {"lado": "B", "ida": ["Grêmio", 1, 2, "Pumas"], "volta": ["Pumas", 1, 1, "Grêmio"]},
+      {"lado": "B", "ida": ["Colo Colo", 1, 0, "Racing"], "volta": ["Racing", 1, 1, "Colo Colo"], "penaltis": [4, 5]},
+      {"lado": "B", "ida": ["Montevideo City Torque", 2, 1, "Atlético Mineiro"], "volta": ["Atlético Mineiro", 3, 0, "Montevideo City Torque"]},
+      {"lado": "B", "ida": ["Tigres", 2, 0, "Junior"], "volta": ["Junior", 1, 2, "Tigres"]}
+    ],
+    "Quartas": [
+      {"ida": ["River Plate", 0, 0, "Monterrey"], "volta": ["Monterrey", 1, 0, "River Plate"]},
+      {"ida": ["Vasco", 0, 1, "Chivas"], "volta": ["Chivas", 2, 0, "Vasco"]},
+      {"ida": ["Colo Colo", 2, 1, "Pumas"], "volta": ["Pumas", 2, 0, "Colo Colo"]},
+      {"ida": ["Tigres", 1, 0, "Atlético Mineiro"], "volta": ["Atlético Mineiro", 3, 1, "Tigres"]}
+    ],
+    "Semifinais": [
+      {"ida": ["Chivas", 2, 1, "Monterrey"], "volta": ["Monterrey", 1, 2, "Chivas"]},
+      {"ida": ["Atlético Mineiro", 1, 0, "Pumas"], "volta": ["Pumas", 1, 3, "Atlético Mineiro"]}
+    ],
+    "Final": [
+      {"jogo_unico": ["Chivas", 1, 0, "Atlético Mineiro"], "sede": "Barranquilla"}
+    ]
+  }
+}

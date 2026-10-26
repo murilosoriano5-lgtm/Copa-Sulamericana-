@@ -5,7 +5,7 @@ Repositório único com o motor de sorteio compartilhado e uma pasta por competi
 ```
 core/sorteio.py        motor: sorteio, validação e geração dos jogos
 libertadores/          potes.json + JOGOS_POR_RODADA.md + rodadas.json (pronto)
-sula/                  potes.json (a preencher com os 36 times da Sul-Americana)
+sula/                  potes.json, jogos, resultados e classificação da Sul-Americana
 ESTUDO.md              material de estudo
 ```
 Jogos prontos: [`libertadores/JOGOS_POR_RODADA.md`](libertadores/JOGOS_POR_RODADA.md). Material de estudo: [`ESTUDO.md`](ESTUDO.md).
@@ -45,6 +45,11 @@ Edite `sula/potes.json`: 4 potes (`"1"` a `"4"`) com 9 objetos `{"equipe": "..."
 ## Observações sobre a lista de equipes (Libertadores)
 - Os potes têm 9 equipes cada (36). A lista de vagas por país tem pequenas diferenças (ex.: México e EUA listam 4 clubes para "3 vagas"); foram usados os clubes dos **potes**.
 - Nomes: `Olímpia` (Paraguai) e `Olímpia (HON)` (Honduras); `Alianza Lima` (Peru) e `Alianza (SLV)` (El Salvador).
+
+## Resultados e classificação
+- `core/classificacao.py <pasta>`: lê `resultados/liga.txt`, confere se os jogos são os do sorteio e calcula a tabela.
+- `core/mata_mata.py <pasta>`: confere chaveamento (top 16), agregados e pênaltis até o campeão.
+- Sul-Americana concluída: veja [`sula/RESULTADOS.md`](sula/RESULTADOS.md).
 
 ## Próximos passos sugeridos
 - Tabela de classificação (3 pts vitória, 1 empate) e critérios de desempate.

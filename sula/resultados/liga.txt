@@ -1,0 +1,159 @@
+RODADA 1
+  Grêmio 1x1 Pumas
+  Botafogo 2x0 Huracán
+  Racing 2x1 Universidad Chile
+  San Lorenzo 1x0 Deportivo Táchira
+  Olímpia 1x1 Chivas
+  Vasco 2x1 Tigres
+  Barcelona 1x1 Atlético Mineiro
+  The Strongest 3x1 Guaraní
+  Cusco 0x2 Atlético Nacional
+  Carabobo 1x2 Montevideo City Torque
+  Blooming 1x1 Colo Colo
+  Liverpool 2x3 Monterrey
+  Universidad Católica (EQU) 2x1 Los Angeles FC
+  Olímpia (HON) 1x1 Saprissa
+  Comunicaciones (GUA) 2x2 River Plate
+  Alianza (SLV) 2x1 LA Galaxy
+  Philadelphia Union 1x0 Alianza Lima
+  Columbus Crew 2x2 Junior
+
+RODADA 2
+  Atlético Mineiro 2x0 Olímpia
+  River Plate 2x1 Botafogo
+  San Lorenzo 1x1 Los Angeles FC
+  Atlético Nacional 2x0 Universidad Católica (EQU)
+  Colo Colo 3x1 Cusco
+  Huracán 1x2 Junior
+  Guaraní 1x1 Barcelona
+  Alianza Lima 2x1 Olímpia (HON)
+  Deportivo Táchira 1x1 Blooming
+  Monterrey 2x2 Vasco
+  Chivas 3x0 LA Galaxy
+  Montevideo City Torque 2x1 Tigres
+  Comunicaciones (GUA) 1x0 Carabobo
+  Alianza (SLV) 2x1 Racing
+  Saprissa 1x1 The Strongest
+  Philadelphia Union 3x1 Liverpool
+  Columbus Crew 2x2 Grêmio
+  Pumas 3x0 Universidad Chile
+
+RODADA 3
+  Botafogo 2x3 Columbus Crew
+  Racing 1x1 Colo Colo
+  Atlético Nacional 3x0 Barcelona
+  Olímpia 1x1 River Plate
+  Vasco 2x0 Universidad Chile
+  Huracán 1x1 Grêmio
+  Junior 2x0 Deportivo Táchira
+  Monterrey 2x0 San Lorenzo
+  Montevideo City Torque 0x1 Guaraní
+  Cusco 2x2 Pumas
+  Carabobo 2x1 The Strongest
+  Blooming 1x1 Alianza Lima
+  Liverpool 2x1 Comunicaciones (GUA)
+  Universidad Católica (EQU) 1x1 Atlético Mineiro
+  Saprissa 2x1 Chivas
+  LA Galaxy 1x0 Olímpia (HON)
+  Los Angeles FC 1x1 Tigres
+  Philadelphia Union 2x1 Alianza (SLV)
+
+RODADA 4
+  Grêmio 1x0 Liverpool
+  Botafogo 2x1 Montevideo City Torque
+  River Plate 4x1 Philadelphia Union
+  Racing 4x0 Comunicaciones (GUA)
+  Atlético Nacional 3x1 Atlético Mineiro
+  Colo Colo 2x0 Saprissa
+  Junior 2x1 San Lorenzo
+  Barcelona 1x2 Pumas
+  Universidad Chile 2x1 Alianza Lima
+  The Strongest 3x2 Universidad Católica (EQU)
+  Guaraní 1x0 Columbus Crew
+  Tigres 2x0 Huracán
+  Carabobo 0x2 Olímpia
+  Blooming 0x2 Chivas
+  Olímpia (HON) 1x0 Cusco
+  Alianza (SLV) 0x3 Monterrey
+  LA Galaxy 2x1 Vasco
+  Los Angeles FC 2x0 Deportivo Táchira
+
+RODADA 5
+  River Plate 2x0 Guaraní
+  Colo Colo 1x1 San Lorenzo
+  Huracán 2x1 LA Galaxy
+  Junior 3x0 Alianza (SLV)
+  Universidad Chile 1x1 Botafogo
+  The Strongest 2x1 Racing
+  Alianza Lima 0x0 Atlético Nacional
+  Deportivo Táchira 0x1 Vasco
+  Monterrey 3x2 Carabobo
+  Tigres 4x1 Universidad Católica (EQU)
+  Chivas 2x0 Liverpool
+  Montevideo City Torque 1x1 Grêmio
+  Cusco 2x1 Barcelona
+  Olímpia (HON) 0x1 Atlético Mineiro
+  Comunicaciones (GUA) 1x1 Columbus Crew
+  Saprissa 1x1 Los Angeles FC
+  Philadelphia Union 2x4 Olímpia
+  Pumas 4x1 Blooming
+
+RODADA 6
+  Atlético Mineiro 2x0 Alianza Lima
+  Grêmio 2x0 The Strongest
+  Botafogo 2x1 Atlético Nacional
+  Racing 1x0 Carabobo
+  San Lorenzo 1x2 Tigres
+  Olímpia 2x0 Junior
+  Vasco 2x1 Philadelphia Union
+  Barcelona 1x1 Monterrey
+  Guaraní 2x1 Liverpool
+  Deportivo Táchira 1x0 Saprissa
+  Chivas 2x1 River Plate
+  Montevideo City Torque 4x0 Olímpia (HON)
+  Cusco 3x1 Blooming
+  Universidad Católica (EQU) 1x0 Universidad Chile
+  Alianza (SLV) 0x2 Huracán
+  LA Galaxy 2x1 Colo Colo
+  Los Angeles FC 3x0 Comunicaciones (GUA)
+  Columbus Crew 4x2 Pumas
+
+RODADA 7
+  Atlético Mineiro 3x2 Monterrey
+  Grêmio 1x2 Racing
+  River Plate 3x0 Blooming
+  Atlético Nacional 2x0 LA Galaxy
+  Colo Colo 1x0 Vasco
+  Olímpia 2x0 Olímpia (HON)
+  Barcelona 3x1 The Strongest
+  Universidad Chile 1x3 Los Angeles FC
+  Alianza Lima 1x1 Huracán
+  Tigres 4x0 Alianza (SLV)
+  Chivas 2x1 Junior
+  Carabobo 1x2 Philadelphia Union
+  Liverpool 3x0 Deportivo Táchira
+  Universidad Católica (EQU) 4x2 Cusco
+  Comunicaciones (GUA) 3x1 Guaraní
+  Saprissa 1x1 San Lorenzo
+  Columbus Crew 2x1 Montevideo City Torque
+  Pumas 1x0 Botafogo
+
+RODADA 8
+  Atlético Mineiro 3x0 Alianza (SLV)
+  San Lorenzo 0x1 Grêmio
+  Vasco 2x2 River Plate
+  Huracán 2x0 Cusco
+  Junior 3x1 Carabobo
+  Universidad Chile 2x1 Chivas
+  The Strongest 3x2 Comunicaciones (GUA)
+  Guaraní 1x2 Colo Colo
+  Alianza Lima 0x1 Montevideo City Torque
+  Deportivo Táchira 2x1 Olímpia
+  Monterrey 3x1 Saprissa
+  Tigres 2x2 Botafogo
+  Blooming 2x1 Columbus Crew
+  Liverpool 0x1 Racing
+  Olímpia (HON) 0x2 Barcelona
+  LA Galaxy 3x1 Universidad Católica (EQU)
+  Los Angeles FC 2x1 Atlético Nacional
+  Pumas 3x1 Philadelphia Union
