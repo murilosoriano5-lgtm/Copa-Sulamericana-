@@ -5,483 +5,35 @@
     [
       {
         "mandante": "Vasco",
-        "visitante": "Deportivo La Guaira"
-      },
-      {
-        "mandante": "Lanús",
-        "visitante": "Atlas"
-      },
-      {
-        "mandante": "Barcelona (EQU)",
-        "visitante": "Blooming"
-      },
-      {
-        "mandante": "Nacional (PAR)",
-        "visitante": "Vélez"
-      },
-      {
-        "mandante": "Libertad",
-        "visitante": "Junior"
-      },
-      {
-        "mandante": "Millonarios",
-        "visitante": "Santos"
-      },
-      {
-        "mandante": "Sporting Cristal",
-        "visitante": "Nacional (URU)"
-      },
-      {
-        "mandante": "San Lorenzo",
         "visitante": "Huachipato"
       },
       {
-        "mandante": "Monterrey",
-        "visitante": "São Paulo"
+        "mandante": "São Paulo",
+        "visitante": "Monterrey"
       },
       {
-        "mandante": "Portuguesa",
+        "mandante": "Universidad Chile",
+        "visitante": "Libertad"
+      },
+      {
+        "mandante": "The Strongest",
+        "visitante": "Municipal (GUA)"
+      },
+      {
+        "mandante": "Sporting Cristal",
+        "visitante": "Barcelona (EQU)"
+      },
+      {
+        "mandante": "Bahia",
         "visitante": "Cerro"
       },
       {
-        "mandante": "Melgar",
-        "visitante": "The Strongest"
-      },
-      {
-        "mandante": "Cavalry (CAN)",
-        "visitante": "Defensa y Justicia"
-      },
-      {
-        "mandante": "Municipal (GUA)",
-        "visitante": "Motagua"
-      },
-      {
-        "mandante": "Saprissa",
-        "visitante": "New York City FC"
-      },
-      {
-        "mandante": "Seattle Sounders",
-        "visitante": "Bahia"
-      },
-      {
-        "mandante": "Orlando City",
-        "visitante": "Universidad Católica (EQU)"
-      },
-      {
-        "mandante": "Chicago Fire",
-        "visitante": "León"
+        "mandante": "San Lorenzo",
+        "visitante": "Nacional (PAR)"
       },
       {
         "mandante": "Tijuana",
-        "visitante": "Universidad Chile"
-      }
-    ],
-    [
-      {
-        "mandante": "Santos",
-        "visitante": "Lanús"
-      },
-      {
-        "mandante": "Defensa y Justicia",
-        "visitante": "Motagua"
-      },
-      {
-        "mandante": "Barcelona (EQU)",
-        "visitante": "Bahia"
-      },
-      {
-        "mandante": "Libertad",
-        "visitante": "Universidad Católica (EQU)"
-      },
-      {
-        "mandante": "The Strongest",
-        "visitante": "São Paulo"
-      },
-      {
-        "mandante": "Junior",
-        "visitante": "Vasco"
-      },
-      {
-        "mandante": "Sporting Cristal",
-        "visitante": "Saprissa"
-      },
-      {
-        "mandante": "San Lorenzo",
         "visitante": "Millonarios"
-      },
-      {
-        "mandante": "León",
-        "visitante": "Nacional (PAR)"
-      },
-      {
-        "mandante": "Cerro",
-        "visitante": "Universidad Chile"
-      },
-      {
-        "mandante": "Portuguesa",
-        "visitante": "Nacional (URU)"
-      },
-      {
-        "mandante": "Deportivo La Guaira",
-        "visitante": "Monterrey"
-      },
-      {
-        "mandante": "Huachipato",
-        "visitante": "Blooming"
-      },
-      {
-        "mandante": "Melgar",
-        "visitante": "Atlas"
-      },
-      {
-        "mandante": "New York City FC",
-        "visitante": "Tijuana"
-      },
-      {
-        "mandante": "Seattle Sounders",
-        "visitante": "Vélez"
-      },
-      {
-        "mandante": "Orlando City",
-        "visitante": "Municipal (GUA)"
-      },
-      {
-        "mandante": "Chicago Fire",
-        "visitante": "Cavalry (CAN)"
-      }
-    ],
-    [
-      {
-        "mandante": "Vasco",
-        "visitante": "Saprissa"
-      },
-      {
-        "mandante": "São Paulo",
-        "visitante": "Barcelona (EQU)"
-      },
-      {
-        "mandante": "Vélez",
-        "visitante": "Libertad"
-      },
-      {
-        "mandante": "Universidad Católica (EQU)",
-        "visitante": "Nacional (URU)"
-      },
-      {
-        "mandante": "Universidad Chile",
-        "visitante": "Lanús"
-      },
-      {
-        "mandante": "Millonarios",
-        "visitante": "Chicago Fire"
-      },
-      {
-        "mandante": "Junior",
-        "visitante": "Melgar"
-      },
-      {
-        "mandante": "Bahia",
-        "visitante": "Defensa y Justicia"
-      },
-      {
-        "mandante": "San Lorenzo",
-        "visitante": "Municipal (GUA)"
-      },
-      {
-        "mandante": "Monterrey",
-        "visitante": "Seattle Sounders"
-      },
-      {
-        "mandante": "Cerro",
-        "visitante": "León"
-      },
-      {
-        "mandante": "Huachipato",
-        "visitante": "Sporting Cristal"
-      },
-      {
-        "mandante": "Blooming",
-        "visitante": "Portuguesa"
-      },
-      {
-        "mandante": "Cavalry (CAN)",
-        "visitante": "Nacional (PAR)"
-      },
-      {
-        "mandante": "Motagua",
-        "visitante": "Deportivo La Guaira"
-      },
-      {
-        "mandante": "New York City FC",
-        "visitante": "Atlas"
-      },
-      {
-        "mandante": "Orlando City",
-        "visitante": "The Strongest"
-      },
-      {
-        "mandante": "Tijuana",
-        "visitante": "Santos"
-      }
-    ],
-    [
-      {
-        "mandante": "São Paulo",
-        "visitante": "Orlando City"
-      },
-      {
-        "mandante": "Vélez",
-        "visitante": "Portuguesa"
-      },
-      {
-        "mandante": "Lanús",
-        "visitante": "Vasco"
-      },
-      {
-        "mandante": "Universidad Católica (EQU)",
-        "visitante": "Junior"
-      },
-      {
-        "mandante": "Defensa y Justicia",
-        "visitante": "Melgar"
-      },
-      {
-        "mandante": "Nacional (URU)",
-        "visitante": "The Strongest"
-      },
-      {
-        "mandante": "Barcelona (EQU)",
-        "visitante": "Tijuana"
-      },
-      {
-        "mandante": "Millonarios",
-        "visitante": "Universidad Chile"
-      },
-      {
-        "mandante": "Sporting Cristal",
-        "visitante": "Nacional (PAR)"
-      },
-      {
-        "mandante": "Bahia",
-        "visitante": "Cavalry (CAN)"
-      },
-      {
-        "mandante": "León",
-        "visitante": "Santos"
-      },
-      {
-        "mandante": "Atlas",
-        "visitante": "Huachipato"
-      },
-      {
-        "mandante": "Deportivo La Guaira",
-        "visitante": "New York City FC"
-      },
-      {
-        "mandante": "Blooming",
-        "visitante": "Libertad"
-      },
-      {
-        "mandante": "Motagua",
-        "visitante": "Seattle Sounders"
-      },
-      {
-        "mandante": "Municipal (GUA)",
-        "visitante": "Monterrey"
-      },
-      {
-        "mandante": "Saprissa",
-        "visitante": "Cerro"
-      },
-      {
-        "mandante": "Chicago Fire",
-        "visitante": "San Lorenzo"
-      }
-    ],
-    [
-      {
-        "mandante": "Santos",
-        "visitante": "Cerro"
-      },
-      {
-        "mandante": "São Paulo",
-        "visitante": "Huachipato"
-      },
-      {
-        "mandante": "Vélez",
-        "visitante": "Cavalry (CAN)"
-      },
-      {
-        "mandante": "Lanús",
-        "visitante": "Chicago Fire"
-      },
-      {
-        "mandante": "Universidad Católica (EQU)",
-        "visitante": "New York City FC"
-      },
-      {
-        "mandante": "Nacional (URU)",
-        "visitante": "Municipal (GUA)"
-      },
-      {
-        "mandante": "Nacional (PAR)",
-        "visitante": "Portuguesa"
-      },
-      {
-        "mandante": "Libertad",
-        "visitante": "Deportivo La Guaira"
-      },
-      {
-        "mandante": "Universidad Chile",
-        "visitante": "Bahia"
-      },
-      {
-        "mandante": "The Strongest",
-        "visitante": "Sporting Cristal"
-      },
-      {
-        "mandante": "Millonarios",
-        "visitante": "León"
-      },
-      {
-        "mandante": "Junior",
-        "visitante": "Tijuana"
-      },
-      {
-        "mandante": "San Lorenzo",
-        "visitante": "Barcelona (EQU)"
-      },
-      {
-        "mandante": "Monterrey",
-        "visitante": "Melgar"
-      },
-      {
-        "mandante": "Atlas",
-        "visitante": "Defensa y Justicia"
-      },
-      {
-        "mandante": "Motagua",
-        "visitante": "Vasco"
-      },
-      {
-        "mandante": "Seattle Sounders",
-        "visitante": "Saprissa"
-      },
-      {
-        "mandante": "Orlando City",
-        "visitante": "Blooming"
-      }
-    ],
-    [
-      {
-        "mandante": "Santos",
-        "visitante": "Universidad Chile"
-      },
-      {
-        "mandante": "Lanús",
-        "visitante": "Sporting Cristal"
-      },
-      {
-        "mandante": "Defensa y Justicia",
-        "visitante": "São Paulo"
-      },
-      {
-        "mandante": "Nacional (URU)",
-        "visitante": "Monterrey"
-      },
-      {
-        "mandante": "Nacional (PAR)",
-        "visitante": "Seattle Sounders"
-      },
-      {
-        "mandante": "The Strongest",
-        "visitante": "Motagua"
-      },
-      {
-        "mandante": "Junior",
-        "visitante": "San Lorenzo"
-      },
-      {
-        "mandante": "Bahia",
-        "visitante": "Libertad"
-      },
-      {
-        "mandante": "León",
-        "visitante": "Saprissa"
-      },
-      {
-        "mandante": "Atlas",
-        "visitante": "Chicago Fire"
-      },
-      {
-        "mandante": "Cerro",
-        "visitante": "Universidad Católica (EQU)"
-      },
-      {
-        "mandante": "Portuguesa",
-        "visitante": "Municipal (GUA)"
-      },
-      {
-        "mandante": "Deportivo La Guaira",
-        "visitante": "Vélez"
-      },
-      {
-        "mandante": "Huachipato",
-        "visitante": "Barcelona (EQU)"
-      },
-      {
-        "mandante": "Melgar",
-        "visitante": "Tijuana"
-      },
-      {
-        "mandante": "Blooming",
-        "visitante": "Vasco"
-      },
-      {
-        "mandante": "Cavalry (CAN)",
-        "visitante": "Orlando City"
-      },
-      {
-        "mandante": "New York City FC",
-        "visitante": "Millonarios"
-      }
-    ],
-    [
-      {
-        "mandante": "Santos",
-        "visitante": "Seattle Sounders"
-      },
-      {
-        "mandante": "Vasco",
-        "visitante": "San Lorenzo"
-      },
-      {
-        "mandante": "São Paulo",
-        "visitante": "Nacional (PAR)"
-      },
-      {
-        "mandante": "Universidad Católica (EQU)",
-        "visitante": "León"
-      },
-      {
-        "mandante": "Defensa y Justicia",
-        "visitante": "Millonarios"
-      },
-      {
-        "mandante": "Barcelona (EQU)",
-        "visitante": "Vélez"
-      },
-      {
-        "mandante": "Universidad Chile",
-        "visitante": "Atlas"
-      },
-      {
-        "mandante": "The Strongest",
-        "visitante": "Monterrey"
-      },
-      {
-        "mandante": "Sporting Cristal",
-        "visitante": "Cerro"
       },
       {
         "mandante": "Portuguesa",
@@ -489,109 +41,557 @@
       },
       {
         "mandante": "Deportivo La Guaira",
-        "visitante": "Bahia"
+        "visitante": "Atlas"
       },
       {
-        "mandante": "Huachipato",
-        "visitante": "Orlando City"
-      },
-      {
-        "mandante": "Blooming",
-        "visitante": "Motagua"
+        "mandante": "Melgar",
+        "visitante": "Blooming"
       },
       {
         "mandante": "Cavalry (CAN)",
-        "visitante": "Melgar"
+        "visitante": "Santos"
       },
       {
-        "mandante": "Municipal (GUA)",
-        "visitante": "Lanús"
+        "mandante": "Motagua",
+        "visitante": "León"
       },
       {
         "mandante": "Saprissa",
-        "visitante": "Libertad"
+        "visitante": "Lanús"
       },
       {
         "mandante": "New York City FC",
-        "visitante": "Nacional (URU)"
+        "visitante": "Universidad Católica (EQU)"
       },
       {
-        "mandante": "Tijuana",
-        "visitante": "Chicago Fire"
+        "mandante": "Seattle Sounders",
+        "visitante": "Vélez"
+      },
+      {
+        "mandante": "Orlando City",
+        "visitante": "Defensa y Justicia"
+      },
+      {
+        "mandante": "Chicago Fire",
+        "visitante": "Nacional (URU)"
       }
     ],
     [
+      {
+        "mandante": "Santos",
+        "visitante": "Blooming"
+      },
+      {
+        "mandante": "São Paulo",
+        "visitante": "Sporting Cristal"
+      },
+      {
+        "mandante": "Lanús",
+        "visitante": "Nacional (PAR)"
+      },
+      {
+        "mandante": "Vélez",
+        "visitante": "Libertad"
+      },
+      {
+        "mandante": "Defensa y Justicia",
+        "visitante": "Cerro"
+      },
+      {
+        "mandante": "Nacional (URU)",
+        "visitante": "Portuguesa"
+      },
+      {
+        "mandante": "Barcelona (EQU)",
+        "visitante": "Deportivo La Guaira"
+      },
+      {
+        "mandante": "Universidad Católica (EQU)",
+        "visitante": "Cavalry (CAN)"
+      },
+      {
+        "mandante": "Universidad Chile",
+        "visitante": "San Lorenzo"
+      },
+      {
+        "mandante": "Millonarios",
+        "visitante": "Bahia"
+      },
+      {
+        "mandante": "Junior",
+        "visitante": "Huachipato"
+      },
+      {
+        "mandante": "Monterrey",
+        "visitante": "The Strongest"
+      },
+      {
+        "mandante": "León",
+        "visitante": "Seattle Sounders"
+      },
+      {
+        "mandante": "Tijuana",
+        "visitante": "Melgar"
+      },
+      {
+        "mandante": "Motagua",
+        "visitante": "New York City FC"
+      },
+      {
+        "mandante": "Municipal (GUA)",
+        "visitante": "Chicago Fire"
+      },
+      {
+        "mandante": "Saprissa",
+        "visitante": "Orlando City"
+      },
+      {
+        "mandante": "Atlas",
+        "visitante": "Vasco"
+      }
+    ],
+    [
+      {
+        "mandante": "Santos",
+        "visitante": "Nacional (URU)"
+      },
       {
         "mandante": "Vasco",
         "visitante": "Universidad Católica (EQU)"
       },
       {
+        "mandante": "Libertad",
+        "visitante": "Junior"
+      },
+      {
         "mandante": "Vélez",
+        "visitante": "The Strongest"
+      },
+      {
+        "mandante": "Barcelona (EQU)",
+        "visitante": "Lanús"
+      },
+      {
+        "mandante": "Millonarios",
+        "visitante": "Saprissa"
+      },
+      {
+        "mandante": "Sporting Cristal",
+        "visitante": "Chicago Fire"
+      },
+      {
+        "mandante": "León",
+        "visitante": "Universidad Chile"
+      },
+      {
+        "mandante": "Cerro",
+        "visitante": "Monterrey"
+      },
+      {
+        "mandante": "Portuguesa",
+        "visitante": "São Paulo"
+      },
+      {
+        "mandante": "Deportivo La Guaira",
+        "visitante": "Nacional (PAR)"
+      },
+      {
+        "mandante": "Huachipato",
+        "visitante": "San Lorenzo"
+      },
+      {
+        "mandante": "Melgar",
+        "visitante": "Defensa y Justicia"
+      },
+      {
+        "mandante": "Blooming",
+        "visitante": "Bahia"
+      },
+      {
+        "mandante": "Cavalry (CAN)",
+        "visitante": "Atlas"
+      },
+      {
+        "mandante": "New York City FC",
+        "visitante": "Municipal (GUA)"
+      },
+      {
+        "mandante": "Seattle Sounders",
+        "visitante": "Tijuana"
+      },
+      {
+        "mandante": "Orlando City",
+        "visitante": "Motagua"
+      }
+    ],
+    [
+      {
+        "mandante": "Vasco",
+        "visitante": "Barcelona (EQU)"
+      },
+      {
+        "mandante": "São Paulo",
+        "visitante": "Saprissa"
+      },
+      {
+        "mandante": "Lanús",
+        "visitante": "León"
+      },
+      {
+        "mandante": "Vélez",
+        "visitante": "Motagua"
+      },
+      {
+        "mandante": "Nacional (PAR)",
+        "visitante": "Melgar"
+      },
+      {
+        "mandante": "Universidad Católica (EQU)",
+        "visitante": "Tijuana"
+      },
+      {
+        "mandante": "The Strongest",
+        "visitante": "Universidad Chile"
+      },
+      {
+        "mandante": "Junior",
+        "visitante": "Santos"
+      },
+      {
+        "mandante": "Sporting Cristal",
+        "visitante": "Millonarios"
+      },
+      {
+        "mandante": "Bahia",
+        "visitante": "Defensa y Justicia"
+      },
+      {
+        "mandante": "San Lorenzo",
+        "visitante": "Nacional (URU)"
+      },
+      {
+        "mandante": "Huachipato",
+        "visitante": "Libertad"
+      },
+      {
+        "mandante": "Cavalry (CAN)",
+        "visitante": "Cerro"
+      },
+      {
+        "mandante": "Municipal (GUA)",
+        "visitante": "Blooming"
+      },
+      {
+        "mandante": "New York City FC",
+        "visitante": "Portuguesa"
+      },
+      {
+        "mandante": "Orlando City",
+        "visitante": "Deportivo La Guaira"
+      },
+      {
+        "mandante": "Chicago Fire",
+        "visitante": "Monterrey"
+      },
+      {
+        "mandante": "Atlas",
+        "visitante": "Seattle Sounders"
+      }
+    ],
+    [
+      {
+        "mandante": "Vasco",
+        "visitante": "Orlando City"
+      },
+      {
+        "mandante": "Defensa y Justicia",
+        "visitante": "Universidad Chile"
+      },
+      {
+        "mandante": "Nacional (PAR)",
+        "visitante": "Vélez"
+      },
+      {
+        "mandante": "Millonarios",
+        "visitante": "Blooming"
+      },
+      {
+        "mandante": "Junior",
+        "visitante": "The Strongest"
+      },
+      {
+        "mandante": "Sporting Cristal",
+        "visitante": "León"
+      },
+      {
+        "mandante": "Bahia",
+        "visitante": "Universidad Católica (EQU)"
+      },
+      {
+        "mandante": "San Lorenzo",
+        "visitante": "Monterrey"
+      },
+      {
+        "mandante": "Tijuana",
+        "visitante": "Santos"
+      },
+      {
+        "mandante": "Cerro",
+        "visitante": "Lanús"
+      },
+      {
+        "mandante": "Portuguesa",
+        "visitante": "Chicago Fire"
+      },
+      {
+        "mandante": "Deportivo La Guaira",
+        "visitante": "Nacional (URU)"
+      },
+      {
+        "mandante": "Motagua",
+        "visitante": "Barcelona (EQU)"
+      },
+      {
+        "mandante": "Municipal (GUA)",
+        "visitante": "São Paulo"
+      },
+      {
+        "mandante": "Saprissa",
+        "visitante": "Huachipato"
+      },
+      {
+        "mandante": "New York City FC",
+        "visitante": "Libertad"
+      },
+      {
+        "mandante": "Seattle Sounders",
+        "visitante": "Cavalry (CAN)"
+      },
+      {
+        "mandante": "Atlas",
+        "visitante": "Melgar"
+      }
+    ],
+    [
+      {
+        "mandante": "Santos",
+        "visitante": "Seattle Sounders"
+      },
+      {
+        "mandante": "Libertad",
+        "visitante": "Chicago Fire"
+      },
+      {
+        "mandante": "Lanús",
+        "visitante": "São Paulo"
+      },
+      {
+        "mandante": "Vélez",
+        "visitante": "Tijuana"
+      },
+      {
+        "mandante": "Defensa y Justicia",
+        "visitante": "Municipal (GUA)"
+      },
+      {
+        "mandante": "Nacional (URU)",
+        "visitante": "Cavalry (CAN)"
+      },
+      {
+        "mandante": "Barcelona (EQU)",
+        "visitante": "San Lorenzo"
+      },
+      {
+        "mandante": "Nacional (PAR)",
+        "visitante": "Atlas"
+      },
+      {
+        "mandante": "Universidad Chile",
+        "visitante": "Portuguesa"
+      },
+      {
+        "mandante": "The Strongest",
+        "visitante": "Deportivo La Guaira"
+      },
+      {
+        "mandante": "Millonarios",
+        "visitante": "Vasco"
+      },
+      {
+        "mandante": "Monterrey",
+        "visitante": "Saprissa"
+      },
+      {
+        "mandante": "León",
+        "visitante": "Huachipato"
+      },
+      {
+        "mandante": "Cerro",
+        "visitante": "Sporting Cristal"
+      },
+      {
+        "mandante": "Melgar",
+        "visitante": "Universidad Católica (EQU)"
+      },
+      {
+        "mandante": "Blooming",
+        "visitante": "New York City FC"
+      },
+      {
+        "mandante": "Motagua",
+        "visitante": "Bahia"
+      },
+      {
+        "mandante": "Orlando City",
+        "visitante": "Junior"
+      }
+    ],
+    [
+      {
+        "mandante": "Santos",
+        "visitante": "Millonarios"
+      },
+      {
+        "mandante": "São Paulo",
+        "visitante": "Defensa y Justicia"
+      },
+      {
+        "mandante": "Libertad",
+        "visitante": "Vasco"
+      },
+      {
+        "mandante": "Lanús",
+        "visitante": "Atlas"
+      },
+      {
+        "mandante": "Nacional (URU)",
+        "visitante": "Bahia"
+      },
+      {
+        "mandante": "Barcelona (EQU)",
+        "visitante": "New York City FC"
+      },
+      {
+        "mandante": "Universidad Católica (EQU)",
+        "visitante": "Sporting Cristal"
+      },
+      {
+        "mandante": "Junior",
+        "visitante": "Motagua"
+      },
+      {
+        "mandante": "Monterrey",
+        "visitante": "Vélez"
+      },
+      {
+        "mandante": "Portuguesa",
+        "visitante": "León"
+      },
+      {
+        "mandante": "Deportivo La Guaira",
+        "visitante": "Cerro"
+      },
+      {
+        "mandante": "Huachipato",
+        "visitante": "Orlando City"
+      },
+      {
+        "mandante": "Melgar",
+        "visitante": "Cavalry (CAN)"
+      },
+      {
+        "mandante": "Blooming",
+        "visitante": "Tijuana"
+      },
+      {
+        "mandante": "Municipal (GUA)",
+        "visitante": "Universidad Chile"
+      },
+      {
+        "mandante": "Saprissa",
+        "visitante": "The Strongest"
+      },
+      {
+        "mandante": "Seattle Sounders",
+        "visitante": "Nacional (PAR)"
+      },
+      {
+        "mandante": "Chicago Fire",
+        "visitante": "San Lorenzo"
+      }
+    ],
+    [
+      {
+        "mandante": "Libertad",
+        "visitante": "Melgar"
+      },
+      {
+        "mandante": "Defensa y Justicia",
         "visitante": "Santos"
       },
       {
         "mandante": "Nacional (URU)",
-        "visitante": "Defensa y Justicia"
+        "visitante": "Vélez"
       },
       {
         "mandante": "Nacional (PAR)",
-        "visitante": "The Strongest"
+        "visitante": "Junior"
       },
       {
-        "mandante": "Libertad",
-        "visitante": "Orlando City"
+        "mandante": "Universidad Católica (EQU)",
+        "visitante": "São Paulo"
       },
       {
         "mandante": "Universidad Chile",
-        "visitante": "New York City FC"
+        "visitante": "Seattle Sounders"
+      },
+      {
+        "mandante": "The Strongest",
+        "visitante": "Lanús"
       },
       {
         "mandante": "Bahia",
-        "visitante": "Blooming"
+        "visitante": "Orlando City"
+      },
+      {
+        "mandante": "San Lorenzo",
+        "visitante": "New York City FC"
       },
       {
         "mandante": "Monterrey",
-        "visitante": "San Lorenzo"
+        "visitante": "Portuguesa"
       },
       {
         "mandante": "León",
+        "visitante": "Barcelona (EQU)"
+      },
+      {
+        "mandante": "Tijuana",
+        "visitante": "Municipal (GUA)"
+      },
+      {
+        "mandante": "Cerro",
+        "visitante": "Motagua"
+      },
+      {
+        "mandante": "Huachipato",
         "visitante": "Deportivo La Guaira"
+      },
+      {
+        "mandante": "Blooming",
+        "visitante": "Vasco"
+      },
+      {
+        "mandante": "Cavalry (CAN)",
+        "visitante": "Sporting Cristal"
+      },
+      {
+        "mandante": "Chicago Fire",
+        "visitante": "Saprissa"
       },
       {
         "mandante": "Atlas",
         "visitante": "Millonarios"
-      },
-      {
-        "mandante": "Cerro",
-        "visitante": "Cavalry (CAN)"
-      },
-      {
-        "mandante": "Melgar",
-        "visitante": "Lanús"
-      },
-      {
-        "mandante": "Motagua",
-        "visitante": "Junior"
-      },
-      {
-        "mandante": "Municipal (GUA)",
-        "visitante": "Sporting Cristal"
-      },
-      {
-        "mandante": "Saprissa",
-        "visitante": "Barcelona (EQU)"
-      },
-      {
-        "mandante": "Seattle Sounders",
-        "visitante": "Portuguesa"
-      },
-      {
-        "mandante": "Chicago Fire",
-        "visitante": "São Paulo"
-      },
-      {
-        "mandante": "Tijuana",
-        "visitante": "Huachipato"
       }
     ]
   ]

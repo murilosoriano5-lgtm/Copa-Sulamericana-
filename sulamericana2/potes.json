@@ -15,16 +15,16 @@
         "pais": "BRA"
       },
       {
-        "equipe": "Vélez",
-        "pais": "ARG"
+        "equipe": "Libertad",
+        "pais": "PAR"
       },
       {
         "equipe": "Lanús",
         "pais": "ARG"
       },
       {
-        "equipe": "Universidad Católica (EQU)",
-        "pais": "EQU"
+        "equipe": "Vélez",
+        "pais": "ARG"
       },
       {
         "equipe": "Defensa y Justicia",
@@ -45,8 +45,8 @@
         "pais": "PAR"
       },
       {
-        "equipe": "Libertad",
-        "pais": "PAR"
+        "equipe": "Universidad Católica (EQU)",
+        "pais": "EQU"
       },
       {
         "equipe": "Universidad Chile",
@@ -87,7 +87,7 @@
         "pais": "MEX"
       },
       {
-        "equipe": "Atlas",
+        "equipe": "Tijuana",
         "pais": "MEX"
       },
       {
@@ -149,7 +149,7 @@
         "pais": "USA"
       },
       {
-        "equipe": "Tijuana",
+        "equipe": "Atlas",
         "pais": "MEX"
       }
     ]

@@ -1,159 +1,159 @@
 RODADA 1
-  Vasco x Deportivo La Guaira
-  Lanús x Atlas
-  Barcelona (EQU) x Blooming
-  Nacional (PAR) x Vélez
-  Libertad x Junior
-  Millonarios x Santos
-  Sporting Cristal x Nacional (URU)
-  San Lorenzo x Huachipato
-  Monterrey x São Paulo
-  Portuguesa x Cerro
-  Melgar x The Strongest
-  Cavalry (CAN) x Defensa y Justicia
-  Municipal (GUA) x Motagua
-  Saprissa x New York City FC
-  Seattle Sounders x Bahia
-  Orlando City x Universidad Católica (EQU)
-  Chicago Fire x León
-  Tijuana x Universidad Chile
+  Vasco x Huachipato
+  São Paulo x Monterrey
+  Universidad Chile x Libertad
+  The Strongest x Municipal (GUA)
+  Sporting Cristal x Barcelona (EQU)
+  Bahia x Cerro
+  San Lorenzo x Nacional (PAR)
+  Tijuana x Millonarios
+  Portuguesa x Junior
+  Deportivo La Guaira x Atlas
+  Melgar x Blooming
+  Cavalry (CAN) x Santos
+  Motagua x León
+  Saprissa x Lanús
+  New York City FC x Universidad Católica (EQU)
+  Seattle Sounders x Vélez
+  Orlando City x Defensa y Justicia
+  Chicago Fire x Nacional (URU)
 
 RODADA 2
-  Santos x Lanús
-  Defensa y Justicia x Motagua
-  Barcelona (EQU) x Bahia
-  Libertad x Universidad Católica (EQU)
-  The Strongest x São Paulo
-  Junior x Vasco
-  Sporting Cristal x Saprissa
-  San Lorenzo x Millonarios
-  León x Nacional (PAR)
-  Cerro x Universidad Chile
-  Portuguesa x Nacional (URU)
-  Deportivo La Guaira x Monterrey
-  Huachipato x Blooming
-  Melgar x Atlas
-  New York City FC x Tijuana
-  Seattle Sounders x Vélez
-  Orlando City x Municipal (GUA)
-  Chicago Fire x Cavalry (CAN)
+  Santos x Blooming
+  São Paulo x Sporting Cristal
+  Lanús x Nacional (PAR)
+  Vélez x Libertad
+  Defensa y Justicia x Cerro
+  Nacional (URU) x Portuguesa
+  Barcelona (EQU) x Deportivo La Guaira
+  Universidad Católica (EQU) x Cavalry (CAN)
+  Universidad Chile x San Lorenzo
+  Millonarios x Bahia
+  Junior x Huachipato
+  Monterrey x The Strongest
+  León x Seattle Sounders
+  Tijuana x Melgar
+  Motagua x New York City FC
+  Municipal (GUA) x Chicago Fire
+  Saprissa x Orlando City
+  Atlas x Vasco
 
 RODADA 3
-  Vasco x Saprissa
-  São Paulo x Barcelona (EQU)
-  Vélez x Libertad
-  Universidad Católica (EQU) x Nacional (URU)
-  Universidad Chile x Lanús
-  Millonarios x Chicago Fire
-  Junior x Melgar
-  Bahia x Defensa y Justicia
-  San Lorenzo x Municipal (GUA)
-  Monterrey x Seattle Sounders
-  Cerro x León
-  Huachipato x Sporting Cristal
-  Blooming x Portuguesa
-  Cavalry (CAN) x Nacional (PAR)
-  Motagua x Deportivo La Guaira
-  New York City FC x Atlas
-  Orlando City x The Strongest
-  Tijuana x Santos
+  Santos x Nacional (URU)
+  Vasco x Universidad Católica (EQU)
+  Libertad x Junior
+  Vélez x The Strongest
+  Barcelona (EQU) x Lanús
+  Millonarios x Saprissa
+  Sporting Cristal x Chicago Fire
+  León x Universidad Chile
+  Cerro x Monterrey
+  Portuguesa x São Paulo
+  Deportivo La Guaira x Nacional (PAR)
+  Huachipato x San Lorenzo
+  Melgar x Defensa y Justicia
+  Blooming x Bahia
+  Cavalry (CAN) x Atlas
+  New York City FC x Municipal (GUA)
+  Seattle Sounders x Tijuana
+  Orlando City x Motagua
 
 RODADA 4
-  São Paulo x Orlando City
-  Vélez x Portuguesa
-  Lanús x Vasco
-  Universidad Católica (EQU) x Junior
-  Defensa y Justicia x Melgar
-  Nacional (URU) x The Strongest
-  Barcelona (EQU) x Tijuana
-  Millonarios x Universidad Chile
-  Sporting Cristal x Nacional (PAR)
-  Bahia x Cavalry (CAN)
-  León x Santos
-  Atlas x Huachipato
-  Deportivo La Guaira x New York City FC
-  Blooming x Libertad
-  Motagua x Seattle Sounders
-  Municipal (GUA) x Monterrey
-  Saprissa x Cerro
-  Chicago Fire x San Lorenzo
+  Vasco x Barcelona (EQU)
+  São Paulo x Saprissa
+  Lanús x León
+  Vélez x Motagua
+  Nacional (PAR) x Melgar
+  Universidad Católica (EQU) x Tijuana
+  The Strongest x Universidad Chile
+  Junior x Santos
+  Sporting Cristal x Millonarios
+  Bahia x Defensa y Justicia
+  San Lorenzo x Nacional (URU)
+  Huachipato x Libertad
+  Cavalry (CAN) x Cerro
+  Municipal (GUA) x Blooming
+  New York City FC x Portuguesa
+  Orlando City x Deportivo La Guaira
+  Chicago Fire x Monterrey
+  Atlas x Seattle Sounders
 
 RODADA 5
-  Santos x Cerro
-  São Paulo x Huachipato
-  Vélez x Cavalry (CAN)
-  Lanús x Chicago Fire
-  Universidad Católica (EQU) x New York City FC
-  Nacional (URU) x Municipal (GUA)
-  Nacional (PAR) x Portuguesa
-  Libertad x Deportivo La Guaira
-  Universidad Chile x Bahia
-  The Strongest x Sporting Cristal
-  Millonarios x León
-  Junior x Tijuana
-  San Lorenzo x Barcelona (EQU)
-  Monterrey x Melgar
-  Atlas x Defensa y Justicia
-  Motagua x Vasco
-  Seattle Sounders x Saprissa
-  Orlando City x Blooming
+  Vasco x Orlando City
+  Defensa y Justicia x Universidad Chile
+  Nacional (PAR) x Vélez
+  Millonarios x Blooming
+  Junior x The Strongest
+  Sporting Cristal x León
+  Bahia x Universidad Católica (EQU)
+  San Lorenzo x Monterrey
+  Tijuana x Santos
+  Cerro x Lanús
+  Portuguesa x Chicago Fire
+  Deportivo La Guaira x Nacional (URU)
+  Motagua x Barcelona (EQU)
+  Municipal (GUA) x São Paulo
+  Saprissa x Huachipato
+  New York City FC x Libertad
+  Seattle Sounders x Cavalry (CAN)
+  Atlas x Melgar
 
 RODADA 6
-  Santos x Universidad Chile
-  Lanús x Sporting Cristal
-  Defensa y Justicia x São Paulo
-  Nacional (URU) x Monterrey
-  Nacional (PAR) x Seattle Sounders
-  The Strongest x Motagua
-  Junior x San Lorenzo
-  Bahia x Libertad
-  León x Saprissa
-  Atlas x Chicago Fire
-  Cerro x Universidad Católica (EQU)
-  Portuguesa x Municipal (GUA)
-  Deportivo La Guaira x Vélez
-  Huachipato x Barcelona (EQU)
-  Melgar x Tijuana
-  Blooming x Vasco
-  Cavalry (CAN) x Orlando City
-  New York City FC x Millonarios
+  Santos x Seattle Sounders
+  Libertad x Chicago Fire
+  Lanús x São Paulo
+  Vélez x Tijuana
+  Defensa y Justicia x Municipal (GUA)
+  Nacional (URU) x Cavalry (CAN)
+  Barcelona (EQU) x San Lorenzo
+  Nacional (PAR) x Atlas
+  Universidad Chile x Portuguesa
+  The Strongest x Deportivo La Guaira
+  Millonarios x Vasco
+  Monterrey x Saprissa
+  León x Huachipato
+  Cerro x Sporting Cristal
+  Melgar x Universidad Católica (EQU)
+  Blooming x New York City FC
+  Motagua x Bahia
+  Orlando City x Junior
 
 RODADA 7
-  Santos x Seattle Sounders
-  Vasco x San Lorenzo
-  São Paulo x Nacional (PAR)
-  Universidad Católica (EQU) x León
-  Defensa y Justicia x Millonarios
-  Barcelona (EQU) x Vélez
-  Universidad Chile x Atlas
-  The Strongest x Monterrey
-  Sporting Cristal x Cerro
-  Portuguesa x Junior
-  Deportivo La Guaira x Bahia
+  Santos x Millonarios
+  São Paulo x Defensa y Justicia
+  Libertad x Vasco
+  Lanús x Atlas
+  Nacional (URU) x Bahia
+  Barcelona (EQU) x New York City FC
+  Universidad Católica (EQU) x Sporting Cristal
+  Junior x Motagua
+  Monterrey x Vélez
+  Portuguesa x León
+  Deportivo La Guaira x Cerro
   Huachipato x Orlando City
-  Blooming x Motagua
-  Cavalry (CAN) x Melgar
-  Municipal (GUA) x Lanús
-  Saprissa x Libertad
-  New York City FC x Nacional (URU)
-  Tijuana x Chicago Fire
+  Melgar x Cavalry (CAN)
+  Blooming x Tijuana
+  Municipal (GUA) x Universidad Chile
+  Saprissa x The Strongest
+  Seattle Sounders x Nacional (PAR)
+  Chicago Fire x San Lorenzo
 
 RODADA 8
-  Vasco x Universidad Católica (EQU)
-  Vélez x Santos
-  Nacional (URU) x Defensa y Justicia
-  Nacional (PAR) x The Strongest
-  Libertad x Orlando City
-  Universidad Chile x New York City FC
-  Bahia x Blooming
-  Monterrey x San Lorenzo
-  León x Deportivo La Guaira
+  Libertad x Melgar
+  Defensa y Justicia x Santos
+  Nacional (URU) x Vélez
+  Nacional (PAR) x Junior
+  Universidad Católica (EQU) x São Paulo
+  Universidad Chile x Seattle Sounders
+  The Strongest x Lanús
+  Bahia x Orlando City
+  San Lorenzo x New York City FC
+  Monterrey x Portuguesa
+  León x Barcelona (EQU)
+  Tijuana x Municipal (GUA)
+  Cerro x Motagua
+  Huachipato x Deportivo La Guaira
+  Blooming x Vasco
+  Cavalry (CAN) x Sporting Cristal
+  Chicago Fire x Saprissa
   Atlas x Millonarios
-  Cerro x Cavalry (CAN)
-  Melgar x Lanús
-  Motagua x Junior
-  Municipal (GUA) x Sporting Cristal
-  Saprissa x Barcelona (EQU)
-  Seattle Sounders x Portuguesa
-  Chicago Fire x São Paulo
-  Tijuana x Huachipato
