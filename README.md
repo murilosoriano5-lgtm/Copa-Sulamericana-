@@ -46,6 +46,13 @@ Edite `sula/potes.json`: 4 potes (`"1"` a `"4"`) com 9 objetos `{"equipe": "..."
 - Os potes têm 9 equipes cada (36). A lista de vagas por país tem pequenas diferenças (ex.: México e EUA listam 4 clubes para "3 vagas"); foram usados os clubes dos **potes**.
 - Nomes: `Olímpia` (Paraguai) e `Olímpia (HON)` (Honduras); `Alianza Lima` (Peru) e `Alianza (SLV)` (El Salvador).
 
+## Competições no repositório
+| Pasta | Conteúdo |
+|---|---|
+| `libertadores/` | 36 equipes (lista 1), sorteio seed 2026 |
+| `sula/` | mesma lista 1, sorteio seed 2027, com resultados e campeão (Chivas) |
+| `sulamericana2/` | lista 2 (Vasco, Santos, Bahia, Vélez, Millonarios...), sorteio seed 2028 |
+
 ## Resultados e classificação
 - `core/classificacao.py <pasta>`: lê `resultados/liga.txt`, confere se os jogos são os do sorteio e calcula a tabela.
 - `core/mata_mata.py <pasta>`: confere chaveamento (top 16), agregados e pênaltis até o campeão.

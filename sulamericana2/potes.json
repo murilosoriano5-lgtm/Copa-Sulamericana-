@@ -1,0 +1,157 @@
+{
+  "competicao": "Copa Sul-Americana 2 (formato suíço)",
+  "potes": {
+    "1": [
+      {
+        "equipe": "Santos",
+        "pais": "BRA"
+      },
+      {
+        "equipe": "Vasco",
+        "pais": "BRA"
+      },
+      {
+        "equipe": "São Paulo",
+        "pais": "BRA"
+      },
+      {
+        "equipe": "Vélez",
+        "pais": "ARG"
+      },
+      {
+        "equipe": "Lanús",
+        "pais": "ARG"
+      },
+      {
+        "equipe": "Universidad Católica (EQU)",
+        "pais": "EQU"
+      },
+      {
+        "equipe": "Defensa y Justicia",
+        "pais": "ARG"
+      },
+      {
+        "equipe": "Nacional (URU)",
+        "pais": "URU"
+      },
+      {
+        "equipe": "Barcelona (EQU)",
+        "pais": "EQU"
+      }
+    ],
+    "2": [
+      {
+        "equipe": "Nacional (PAR)",
+        "pais": "PAR"
+      },
+      {
+        "equipe": "Libertad",
+        "pais": "PAR"
+      },
+      {
+        "equipe": "Universidad Chile",
+        "pais": "CHI"
+      },
+      {
+        "equipe": "The Strongest",
+        "pais": "BOL"
+      },
+      {
+        "equipe": "Millonarios",
+        "pais": "COL"
+      },
+      {
+        "equipe": "Junior",
+        "pais": "COL"
+      },
+      {
+        "equipe": "Sporting Cristal",
+        "pais": "PER"
+      },
+      {
+        "equipe": "Bahia",
+        "pais": "BRA"
+      },
+      {
+        "equipe": "San Lorenzo",
+        "pais": "ARG"
+      }
+    ],
+    "3": [
+      {
+        "equipe": "Monterrey",
+        "pais": "MEX"
+      },
+      {
+        "equipe": "León",
+        "pais": "MEX"
+      },
+      {
+        "equipe": "Atlas",
+        "pais": "MEX"
+      },
+      {
+        "equipe": "Cerro",
+        "pais": "URU"
+      },
+      {
+        "equipe": "Portuguesa",
+        "pais": "VEN"
+      },
+      {
+        "equipe": "Deportivo La Guaira",
+        "pais": "VEN"
+      },
+      {
+        "equipe": "Huachipato",
+        "pais": "CHI"
+      },
+      {
+        "equipe": "Melgar",
+        "pais": "PER"
+      },
+      {
+        "equipe": "Blooming",
+        "pais": "BOL"
+      }
+    ],
+    "4": [
+      {
+        "equipe": "Cavalry (CAN)",
+        "pais": "CAN"
+      },
+      {
+        "equipe": "Motagua",
+        "pais": "HON"
+      },
+      {
+        "equipe": "Municipal (GUA)",
+        "pais": "GUA"
+      },
+      {
+        "equipe": "Saprissa",
+        "pais": "CRC"
+      },
+      {
+        "equipe": "New York City FC",
+        "pais": "USA"
+      },
+      {
+        "equipe": "Seattle Sounders",
+        "pais": "USA"
+      },
+      {
+        "equipe": "Orlando City",
+        "pais": "USA"
+      },
+      {
+        "equipe": "Chicago Fire",
+        "pais": "USA"
+      },
+      {
+        "equipe": "Tijuana",
+        "pais": "MEX"
+      }
+    ]
+  }
+}
